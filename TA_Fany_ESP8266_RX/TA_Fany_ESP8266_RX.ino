@@ -9,8 +9,8 @@
 #define BLYNK_AUTH_TOKEN "ceHz4-_dx_-QGfBzCLnMU6xFid8Pnvcm"
 #define BLYNK_PRINT Serial
 
-char ssid[] = "BUSOL";
-char pass[] = "$ut0h0m312";
+char ssid[] = "Ahmadfany";
+char pass[] = "12345678";
 
 //D6 = Rx & D5 = Tx
 SoftwareSerial nodemcu(D2, D3);

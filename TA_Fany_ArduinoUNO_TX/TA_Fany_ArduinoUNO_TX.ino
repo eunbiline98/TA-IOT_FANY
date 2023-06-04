@@ -14,7 +14,6 @@ const int sens_Smoke = A2;
 
 float dtCO2, dtSmoke, dtTemp, dtHumd;
 float SmokePercentage;
-float t, h;
 
 String stRuangan;
 
